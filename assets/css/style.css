@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: #353535;
+    color: whitesmoke;
+    text-align: center;
+    border: solid 10px;
+    border-color: grey;
+}
+
+.display-4, .lead {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: dashed 10px slategray;
+    padding: 5px;
+} 
